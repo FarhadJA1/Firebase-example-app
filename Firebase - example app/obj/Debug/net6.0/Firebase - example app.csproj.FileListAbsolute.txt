@@ -1,0 +1,32 @@
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\appsettings.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Firebase - example app.exe
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Firebase - example app.deps.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Firebase - example app.runtimeconfig.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Firebase - example app.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Firebase - example app.pdb
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets\msbuild.Firebase - example app.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets\msbuild.build.Firebase - example app.props
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Firebase - example app.props
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Firebase - example app.props
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\scopedcss\bundle\Firebase - example app.styles.css
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.csproj.CopyComplete
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\refint\Firebase - example app.dll
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.pdb
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\Firebase - example app.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Firebase - example app\Firebase - example app\obj\Debug\net6.0\ref\Firebase - example app.dll
